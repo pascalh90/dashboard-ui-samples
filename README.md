@@ -1,6 +1,8 @@
 # dashboard-ui-samples
 A sample dashboard with charts created with react-chart-js2
 
+ ![alt text](./dashboard-ui-samples/screenshot.jpg)
+
 ## Setup instructions:
 1) Launch the back-end part:
  - cd dashboard-assignment
