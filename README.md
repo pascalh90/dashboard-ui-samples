@@ -1,7 +1,7 @@
 # dashboard-ui-samples
 A sample dashboard with charts created with react-chart-js2
 
- ![alt text](https://raw.githubusercontent.com/pascalh90/dashboard-ui-samples/master/screenshot.jpg){:height="400px" width="200px"}
+ ![alt text](https://raw.githubusercontent.com/pascalh90/dashboard-ui-samples/master/screenshot.jpg)
 
 ## Setup instructions:
 1) Launch the back-end part:
